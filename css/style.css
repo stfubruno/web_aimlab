@@ -1,0 +1,56 @@
+body {
+  background-color: #222222;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+  font-family: "Arial", sans-serif;
+  overflow: hidden; /* Disable scrolling */
+  user-select: none; /* Disable text selection and copying */
+}
+
+.circle {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #f2f2f2;
+  pointer-events: auto; /* Enable clicking on the circles */
+}
+
+.start {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.start:hover {
+  background-color: #3e8e41;
+}
+
+.score-display {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.aimlab-game {
+  position: absolute;
+  top: calc(50% - 80px); /* Adjust the top value as needed */
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+}
