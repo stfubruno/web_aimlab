@@ -8,7 +8,7 @@ Este projeto é um website simples desenvolvido para proporcionar uma experiênc
 
 # Como Utilizar
 
-Este é um jogo simples de acertar alvos.
+Demonstre sua habilidade mirando com precisão e acertando seus alvos com maestria.
 
 ## Instruções
 
@@ -16,9 +16,7 @@ Este é um jogo simples de acertar alvos.
 2. Navegue até a pasta onde o projeto foi salvo.
 3. Abra o arquivo "index.html" no seu navegador.
 
-Agora você pode desfrutar do jogo! Use o cursor do mouse para mirar e clique para acertar os círculos. A cada acerto, seu score será incrementado. Continue treinando para aprimorar sua mira e tentar obter a pontuação mais alta.
-
-Divirta-se jogando!
+Agora você pode desfrutar do jogo! Use o cursor do mouse para mirar e clique para acertar os círculos. A cada acerto, seu score será incrementado. Continue treinando para aprimorar sua mira e tentar obter umaa pontuação mais alta.
 
 ## Contribuições
 
