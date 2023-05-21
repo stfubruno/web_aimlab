@@ -8,11 +8,22 @@ Este projeto é um website simples desenvolvido para proporcionar uma experiênc
 
 ## Como Utilizar
 
-1. Abra seu navegador da web e acesse o URL do website.
-2. Na tela, você verá círculos que representam os alvos.
-3. Use o cursor do mouse para mirar e clique para acertar os círculos.
-4. A cada acerto, seu score será incrementado.
-5. Continue treinando para aprimorar sua mira e tentar obter a pontuação mais alta.
+Este é um jogo simples de acertar alvos. Siga as instruções abaixo para começar a jogar.
+
+## Instruções
+
+1. Faça o download ou clone o repositório do projeto no GitHub.
+2. Navegue até a pasta onde o projeto foi salvo.
+3. Abra a pasta e localize o arquivo "index.html".
+4. Dê um duplo clique no arquivo "index.html".
+5. O arquivo será aberto em seu navegador padrão.
+6. Na tela, você verá círculos que representam os alvos.
+7. Use o cursor do mouse para mirar e clique para acertar os círculos.
+8. A cada acerto, seu score será incrementado.
+9. Continue treinando para aprimorar sua mira e tentar obter a pontuação mais alta.
+
+Agora você pode desfrutar do jogo simplesmente abrindo o arquivo "index.html" em seu navegador. Divirta-se acertando os alvos e desafiando seus amigos para ver quem consegue a maior pontuação!
+
 
 ## Contribuições
 
